@@ -25,7 +25,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          Full stack developer with a unique background in commerce and business administration, combining financial analysis and human resources management. Skilled in full stack development, I bring a holistic understanding of business needs and user experience. Thriving in fast-paced environments, I excel at collaborating with cross-functional teams and translating complex technical concepts to non-technical stakeholders. Committed to continuous learning and delivering innovative solutions for business growth..          </p>
+          Full stack developer with a unique background in E commerce and business administration, combining financial analysis and human resources management. Skilled in full stack development, I bring a holistic understanding of business needs and user experience. Thriving in fast-paced environments, I excel at collaborating with cross-functional teams and translating complex technical concepts to non-technical stakeholders. Committed to continuous learning and delivering innovative solutions for business growth..          </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
