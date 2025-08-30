@@ -30,28 +30,28 @@ export function Footer() {
         <a
           href="https://github.com/JAYASURYA510"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
           href="https://api.whatsapp.com/send/?phone=%2B919025903441&text=Hello+Surya"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
         <a
           href="https://t.me/SuryaN"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener"
         >
           <img src={telegram} alt="telegram" />
         </a>
-        <a
+        <a 
           href="https://www.instagram.com/surya_the_forgiver.in"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener"
         >
           <img src={instagramIcon} alt="Instagram" />
         </a>
